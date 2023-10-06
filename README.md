@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @julienpoeschl
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning unity

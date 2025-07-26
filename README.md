@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @julienpoeschl
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning unity
+- Hi!
+- I'm a computer science student interested in game development.
+- Languages I'm familiar with are Java, C#, C++, C and Python.

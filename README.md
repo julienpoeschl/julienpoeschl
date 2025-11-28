@@ -7,3 +7,4 @@ I develop mainly using the [Unity](https://unity.com) game engine and specialize
 - ⚙️ C++
 - 💾 C
 - 🐍 Python
+- 🔍 Lean
